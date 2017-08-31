@@ -1,2 +1,2 @@
-# -ComainConversion
+# ComainConversion
 域名转IP
